@@ -1,0 +1,15 @@
+__turbopack_load_page_chunks__("/_app", [
+  "static/chunks/042b_next_dist_compiled_013idts7gvizj._.js",
+  "static/chunks/042b_next_dist_shared_lib_076bjd9g7bi4l._.js",
+  "static/chunks/042b_next_dist_client_1vjf2sosne2si._.js",
+  "static/chunks/042b_next_dist_1btafn50qgbm5._.js",
+  "static/chunks/042b_next_app_0x3ld24ngl3c6.js",
+  "static/chunks/[next]_entry_page-loader_ts_1snb2q_vr9f9n._.js",
+  "static/chunks/042b_react-dom_cjs_react-dom-client_development_15a1onnffr0kd.js",
+  "static/chunks/042b_react-dom_cjs_react-dom_development_13wtvr2ypu7s8.js",
+  "static/chunks/042b_react-dom_1uhlcenkjqcx7._.js",
+  "static/chunks/042b_0dd7u6k36bnt6._.js",
+  "static/chunks/[root-of-the-server]__07fhe1ota1e2h._.js",
+  "static/chunks/graphily_pages__app_0du2_q-cjzmdk._.js",
+  "static/chunks/turbopack-graphily_pages__app_0sg7oeb8e-myf._.js"
+])

@@ -1,0 +1,25 @@
+{
+  "node": {
+    "60b9ca536902da7ab2e2c150d8b3b117649b0fd49d": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "[project]/graphily/.next-internal/server/app/login/page/actions.js { ACTIONS_MODULE0 => \"[project]/graphily/app/actions/auth.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "exportedName": "signup",
+      "filename": "graphily/app/actions/auth.ts"
+    },
+    "605ee5063cbe353d6cdb0f925c36b7c92c9f33fbf6": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "[project]/graphily/.next-internal/server/app/login/page/actions.js { ACTIONS_MODULE0 => \"[project]/graphily/app/actions/auth.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "exportedName": "login",
+      "filename": "graphily/app/actions/auth.ts"
+    }
+  },
+  "edge": {}
+}
